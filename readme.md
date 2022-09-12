@@ -103,5 +103,5 @@ GParted tool: properties of 256GB eMMC memory:
 Benchmark of 256GB chip:
 ![Screenshot](photos/27.png)
 
-Benchmark of original 32GB chip:
+Benchmark of original eMMC chip (SAMSUNG):
 ![Screenshot](photos/28.png)
