@@ -8,6 +8,7 @@ For this purpose, a brand new Raspberry Pi CM4 module was used in the maximum co
 ## EMMC memory
 The following model (v5.1 standard) was used as eMMC memory: SanDisk iNAND7350, part number SDINBDD4-256G, in the BGA153 housing.
 https://www.sandisk.com/content/dam/sandisk-main/en_us/assets/resources/data-sheets/iNAND-7350-Prod-Brief.pdf
+
 The memory was bought on the Aliexpress portal for about $ 90.
 
 ## Execution
