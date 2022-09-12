@@ -8,7 +8,7 @@ The aim of the project was to modify the eMMC memory (by soldering) from the def
 For this purpose, a brand new Raspberry Pi CM4 module was used in the maximum configuration: 8GB RAM + 32GB eMMC + WiFi (CM4108032).
 
 ## EMMC memory
-The following model (v5.1 standard) was used as eMMC memory: SanDisk iNAND7350, part number SDINBDD4-256G, in the BGA153 housing.
+The following model (v5.1 standard) was used as eMMC memory: SanDisk iNAND7350, part number SDINBDD4-256G, in the BGA153 package.
 https://www.sandisk.com/content/dam/sandisk-main/en_us/assets/resources/data-sheets/iNAND-7350-Prod-Brief.pdf
 
 The memory was bought on the Aliexpress portal for about $90.
