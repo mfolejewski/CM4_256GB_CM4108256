@@ -15,7 +15,7 @@ The memory was bought on the Aliexpress portal for about $90.
 
 ## Execution
 1. First, the eMMC memory chip was desoldered.
-2. There is a place on the CM4 module for soldering a new memory (cleaning of soldering pads).
+2. Next, by cleaning of the soldering pads, place for soldering a new memory has been prepared.
 2. Then the first attempt was made to solder the eMMC 256GB chip. Unfortunately, the chip was soldered inaccurately and crookedly, so it was necessary to clean the pads and re-solder the memory chip.
 3. Before re-soldering, it was necessary to perform BGA reballing of the eMMC system with steel stencil.
 4. The second attempt to solder the memory chip was successful and the eMMC memory was detected after starting the CM4 module.
