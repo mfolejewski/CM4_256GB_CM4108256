@@ -43,7 +43,7 @@ Both eMMC chips:
 Both eMMC chips:
 ![Screenshot](photos/07.png)
 
-After resoldered original BGA eMMC chip:
+After desoldered original BGA eMMC chip:
 ![Screenshot](photos/08.png)
 
 Cleaned up BGA pads:
